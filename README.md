@@ -1,2 +1,2 @@
 # test
-text depo for git commands demonstration
+text repo for git commands demonstration
